@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Hermansyah. I'm web developer based in Indonesia. Even thought my current job doesn't related to programming yet, sometimes I write some script to get my job done faster. 🌱 I’m currently learning Javascript and PHP. 
+Nice to meet you!
 <!--
 **hermansyah32/hermansyah32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
